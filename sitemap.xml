@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.flier.net.cn/2017/10/24/Heap-Exploitation-base-knowledge-notes/</loc>
+    
+    <lastmod>2017-10-24T14:11:39.062Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.flier.net.cn/2017/10/21/PLAY-WITH-LINUX-HEAP-notes/</loc>
     
     <lastmod>2017-10-21T05:05:53.038Z</lastmod>

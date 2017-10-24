@@ -4,6 +4,28 @@
 
     
   <url>
+    <loc>http://blog.flier.net.cn/2017/10/24/Heap-Exploitation-base-knowledge-notes/</loc>
+    <lastmod>2017-10-24T14:11:39.062Z</lastmod>
+    <data>
+        <display>
+        <title>Heap-Exploitation-base-knowledge-notes</title>
+        <pubTime>2017-10-24T13:58:21.000Z</pubTime>
+        
+        <tag>PWN</tag>
+         
+        <tag>HEAP</tag>
+         
+         
+           
+             
+              <breadCrumb title="PWN" url="http://blog.flier.net.cn/categories/PWN/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://blog.flier.net.cn/2017/10/21/PLAY-WITH-LINUX-HEAP-notes/</loc>
     <lastmod>2017-10-21T05:05:53.038Z</lastmod>
     <data>
