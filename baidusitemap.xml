@@ -4,6 +4,48 @@
 
     
   <url>
+    <loc>http://blog.flier.net.cn/2017/10/27/Heap-Exploitation-EXP/</loc>
+    <lastmod>2017-10-27T04:30:18.384Z</lastmod>
+    <data>
+        <display>
+        <title>Heap-Exploitation-EXP</title>
+        <pubTime>2017-10-27T04:27:15.000Z</pubTime>
+        
+        <tag>PWN</tag>
+         
+        <tag>HEAP</tag>
+         
+         
+           
+             
+              <breadCrumb title="HEAP" url="http://blog.flier.net.cn/categories/HEAP/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.flier.net.cn/2017/10/27/CCF2016-reverse2/</loc>
+    <lastmod>2017-10-27T04:24:17.872Z</lastmod>
+    <data>
+        <display>
+        <title>CCF2016-reverse2</title>
+        <pubTime>2017-10-27T04:21:45.000Z</pubTime>
+        
+        <tag>REVERSE</tag>
+         
+         
+           
+             
+              <breadCrumb title="REVERSE" url="http://blog.flier.net.cn/categories/REVERSE/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://blog.flier.net.cn/2017/10/24/Heap-Exploitation-base-knowledge-notes/</loc>
     <lastmod>2017-10-24T14:14:30.192Z</lastmod>
     <data>

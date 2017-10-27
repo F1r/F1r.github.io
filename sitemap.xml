@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.flier.net.cn/2017/10/27/Heap-Exploitation-EXP/</loc>
+    
+    <lastmod>2017-10-27T04:30:18.384Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.flier.net.cn/2017/10/27/CCF2016-reverse2/</loc>
+    
+    <lastmod>2017-10-27T04:24:17.872Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.flier.net.cn/2017/10/24/Heap-Exploitation-base-knowledge-notes/</loc>
     
     <lastmod>2017-10-24T14:14:30.192Z</lastmod>
