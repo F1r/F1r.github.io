@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://blog.flier.net.cn/2017/10/27/Heap-Exploitation-EXP/</loc>
-    <lastmod>2017-10-27T04:30:18.384Z</lastmod>
+    <lastmod>2017-10-27T04:34:02.357Z</lastmod>
     <data>
         <display>
         <title>Heap-Exploitation-EXP</title>
@@ -18,7 +18,7 @@
          
            
              
-              <breadCrumb title="HEAP" url="http://blog.flier.net.cn/categories/HEAP/"/>
+              <breadCrumb title="PWN" url="http://blog.flier.net.cn/categories/PWN/"/>
           
         </display>
     </data>
