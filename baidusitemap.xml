@@ -4,6 +4,28 @@
 
     
   <url>
+    <loc>http://blog.flier.net.cn/2017/11/30/Shanghai-DCTF-2017-pwn/</loc>
+    <lastmod>2017-11-30T01:13:33.081Z</lastmod>
+    <data>
+        <display>
+        <title>Shanghai-DCTF-2017-pwn</title>
+        <pubTime>2017-11-30T01:09:32.000Z</pubTime>
+        
+        <tag>PWN</tag>
+         
+        <tag>STACK</tag>
+         
+         
+           
+             
+              <breadCrumb title="PWN" url="http://blog.flier.net.cn/categories/PWN/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://blog.flier.net.cn/2017/10/27/Heap-Exploitation-EXP/</loc>
     <lastmod>2017-10-31T08:57:03.362Z</lastmod>
     <data>

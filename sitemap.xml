@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.flier.net.cn/2017/11/30/Shanghai-DCTF-2017-pwn/</loc>
+    
+    <lastmod>2017-11-30T01:13:33.081Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.flier.net.cn/2017/10/27/Heap-Exploitation-EXP/</loc>
     
     <lastmod>2017-10-31T08:57:03.362Z</lastmod>
